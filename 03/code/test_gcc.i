@@ -798,4 +798,5 @@ extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__ , __leaf__)
 int main()
 {
         printf("%f\n",2*3.14159);
+        return 0;
 }

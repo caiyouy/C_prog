@@ -1,13 +1,12 @@
 #include <stdio.h>
 
-
+int a;
+double b;
+char c;
 
 int main()
 {
         //Define variables
-        int a;
-        double b;
-        char c;
         //...
         //Forget variable assignment
         //
