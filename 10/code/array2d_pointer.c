@@ -12,6 +12,7 @@ int main()
     }
     printf("B[0]: %p\n", B[0]);
     printf("B[1]: %p\n", B[1]);
+    printf("B[0][4]: %d\n",B[0][3]);
     // printf("%d\n",**B);
     // printf("%d\n",B[1][2]);
     // printf("%d\n",*(*(B+1)+2));
